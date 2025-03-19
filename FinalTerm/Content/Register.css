@@ -1,0 +1,80 @@
+﻿.register-container {
+    background-color: #fff;
+    width: 400px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin: 50px auto;
+    /* Thêm hiệu ứng fade up */
+    opacity: 0;
+    transform: translateY(30px);
+    animation: fadeUp 1s ease-out forwards;
+}
+
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.form-group {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+/* Chỉnh sửa input để không bị icon đè lên */
+.form-control {
+    width: 100%;
+    padding: 10px;
+    padding-left: 35px;
+    /* Tạo khoảng trống bên trái cho icon */
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+
+.dob-fields {
+    display: flex;
+    gap: 10px;
+}
+
+.icon {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 16px;
+    color: #555;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    color: #fff;
+    background-color: #17a2b8;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+    .btn-primary:hover {
+        background-color: #138496;
+    }
+
+.create-account {
+    margin-top: 15px;
+}
+
+    .create-account a {
+        text-decoration: none;
+        color: #17a2b8;
+    }

@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+    Layout = null;
+}
+
+@model FinalTerm.Models.RegisterViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link href="~/Content/Register.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <div class="register-container">
+        <h2>Create a new account</h2>
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post))
+        {
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.Username, new { @class = "form-control", placeholder = "Username" })
+            </div>
+            <div class="form-group">
+                @Html.TextBoxFor(m => m.FullName, new { @class = "form-control", placeholder = "Full Name" })
+            </div>
+
+            <div class="form-group">
+                <label>Date of birth</label>
+                <div class="dob-fields">
+                    @Html.TextBox("Day", "", new
+                    {
+                        @class = "form-control",
+                        placeholder = "Date",
+                        type = "number",
+                        min =
+                    "1",
+                        max = "31"
+                    })
+                    @Html.TextBox("Month", "", new
+                    {
+                        @class = "form-control",
+                        placeholder = "Month",
+                        type = "number",
+                        min =
+                                    "1",
+                        max = "12"
+                    })
+                    @Html.TextBox("Year", "", new
+                    {
+                        @class = "form-control",
+                        placeholder = "Year",
+                        type = "number",
+                        min =
+                                    "1900",
+                        max = "2100"
+                    })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <span class="icon">📧</span>
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Email" })
+            </div>
+
+            <div class="form-group">
+                <span class="icon">📞</span>
+                @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control", placeholder = "Phone" })
+            </div>
+
+            <div class="form-group">
+                <span class="icon">🔒</span>
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Password" })
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create</button>
+            <div class="create-account">
+                <a href="@Url.Action("Login", "Account")">Already have an account?</a>
+            </div>
+        }
+    </div>
+</body>
+
+</html>

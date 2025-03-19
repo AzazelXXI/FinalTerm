@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebProgramming\\FinalTerm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|d:\\webprogramming\\finalterm\\finalterm\\views\\home\\indexunlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\home\\indexunlogged.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\models\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|D:\\WebProgramming\\FinalTerm\\finalterm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8FC8CBA9-62D1-4FA5-8EF9-552EE67C8AD5}|FinalTerm\\FinalTerm.csproj|solutionrelative:finalterm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalTerm\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:06:35.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "FinalTerm\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:54:46.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinalTerm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:47:59.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T09:32:20.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T02:55:02.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Models\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "FinalTerm\\Models\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:49:00.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexUnlogged.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Home\\IndexUnlogged.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Home\\IndexUnlogged.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Home\\IndexUnlogged.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Home\\IndexUnlogged.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T13:31:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Models\\HomeViewModel.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "FinalTerm\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:09:17.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T13:30:00.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T13:28:49.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FinalTerm\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FinalTerm\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T13:28:30.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FinalTerm\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\WebProgramming\\FinalTerm\\FinalTerm\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FinalTerm\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwEwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:39:56.883Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
